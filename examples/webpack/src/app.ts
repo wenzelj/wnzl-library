@@ -3,7 +3,7 @@ import 'reflect-metadata';
 
 import {Component} from '@angular/core';
 import {bootstrap} from '@angular/platform-browser-dynamic';
-import {HelloWorld} from 'angular2-library-example/components';
+import {HelloWorld} from '../../../../wnzl-library/components';
 
 
 @Component({

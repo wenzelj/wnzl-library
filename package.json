@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhades/angular2-library-seed.git"
+    "url": ""
   },
   "keywords": [
     "Angular",
@@ -17,12 +17,12 @@
     "Library",
     "Seed"
   ],
-  "author": "jhades.dev@gmail.com",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jhades/angular2-library-seed/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/jhades/angular2-library-seed#readme",
+  "homepage": "",
   "devDependencies": {
     "typescript": "^1.7.5"
   },
